@@ -21,7 +21,6 @@ As Kanye West said:
 > the present is our past.
 
 #C code
-
   #include<stdio.h>
   int main()
   {
