@@ -26,3 +26,7 @@ As Kanye West said:
   {
   printf("COVID-19 vaccine");
   }
+  
+ ##my image
+ 
+ ![alt peppa pig](img.png)
